@@ -14,7 +14,7 @@ I love [Vue](https://vuejs.org) and [Nuxt](https://nuxtjs.org). I started my car
 
 ---
 
-## What I use
+### What I use
 
 - Operating System: [Ubuntu](https://ubuntu.com/)
 - Terminal emulator: [Tilix](https://gnunn1.github.io/tilix-web/)
@@ -24,7 +24,7 @@ I love [Vue](https://vuejs.org) and [Nuxt](https://nuxtjs.org). I started my car
 - Screen capture: [Flameshot](https://flameshot.org/)
 - Keyboard: [Mx Keys Mini](https://www.logitech.com/en-us/products/keyboards/mx-keys-mini.920-010475.html)
 
-## Side projects
+### Side projects
 
 - [IoT Platform](https://github.com/kmilogp8496/iot-platform): A platform for managing IoT devices. Currently on a rewrite for making it database agnostic, and adding new user management features.
 - [JSON Utilities](https://json.kmilo.dev/): A set of JSON utilities for working with JSON data. It includes a formatting, escaping, minifying, and data generation based on [json schemas](https://json-schema.org/).
