@@ -6,6 +6,10 @@ h2 {
     @apply text-3xl leading-relaxed;
 }
 
+h3 {
+    @apply text-2xl leading-loose;
+}
+
 p {
     @apply mb-4;
 }
