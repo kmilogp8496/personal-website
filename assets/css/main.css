@@ -15,11 +15,15 @@ hr {
 }
 
 a {
-    @apply underline-offset-4 hover:underline decoration-teal-600 text-teal-600;
+    @apply underline-offset-4 hover:underline decoration-teal-600 text-teal-600 decoration-dashed;
 }
 
 li {
     @apply list-disc ml-4;
+}
+
+ul,ol {
+    @apply mb-4;
 }
 
 h1,h2,h3,h4,h5,h6 {

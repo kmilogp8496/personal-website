@@ -1,24 +1,31 @@
+<!-- omit in toc -->
 # Hi, I'm Kmilo!
 
-Currently I'm really busy building an [IoT platform](https://iot.kmilo.dev) for my master's thesis, but I'll be back soon!!!
+Welcome! I'm Kmilo, a software developer from Cuba, currently living in Spain. I'm passionate about technology and I love to learn new things. I'm always looking for new challenges and opportunities to grow as a professional.
+
+I love [Vue](https://vuejs.org) and [Nuxt](https://nuxtjs.org). I started my career as a frontend engineer and I'm still in love with it. Currently I work as a full-stack developer at [Check24](https://www.check24.es/), a German company that offers a comparison platform for different services.
+
+---
+<!-- omit in toc -->
+## What to expect: 
+
+- [What I use](#what-i-use)
+- [Side projects](#side-projects)
 
 ---
 
-## What to expect:
+## What I use
 
-- Tech I use
-- Projects I'm working on
-- Setup
-- More...
+- Operating System: [Ubuntu](https://ubuntu.com/)
+- Terminal emulator: [Tilix](https://gnunn1.github.io/tilix-web/)
+- Shell: Zsh with [Oh My Zsh](https://ohmyz.sh/)
+- Code editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- Screen capture: [Flameshot](https://flameshot.org/)
+- Keyboard: [Mx Keys Mini](https://www.logitech.com/en-us/products/keyboards/mx-keys-mini.920-010475.html)
 
----
+## Side projects
 
-## About me:
-
-I'm a software developer from Cuba, currently living in Spain. I study a master's degree about Internet of Things at the University Carlos III of Madrid. I'm passionate about technology and I love to learn new things. I'm always looking for new challenges and opportunities to grow as a professional.
-
-I love [Vue](https://vuejs.org) and [Nuxt](https://nuxtjs.org). I started my career as a frontend engineer and I'm still in love with it. in the past few years I've also developed backend applications and I enjoy it too.
-
-I'm a Linux user (Yes, I needed to say it, why not?) and I love open source software. I enjoy working with servers, but only as side projects. I'm not a sysadmin, but I like to learn about it.
-
-I'm also a big follower of some of the Vue and Nuxt core team members. I love their work and I think they are a big source of inspiration for the community.
+- [IoT Platform](https://github.com/kmilogp8496/iot-platform): A platform for managing IoT devices. Currently on a rewrite for making it database agnostic, and adding new user management features.
+- [JSON Utilities](https://json.kmilo.dev/): A set of JSON utilities for working with JSON data. It includes a formatting, escaping, minifying, and data generation based on [json schemas](https://json-schema.org/).
+- Quiz App: A quiz app based on [sli.dev](https://sli.dev).
