@@ -15,7 +15,5 @@ ${code}
 </script>
 
 <template>
-  <div class="max-w-full overflow-hidden">
-    <MDC :value />
-  </div>
+  <MDC :value />
 </template>

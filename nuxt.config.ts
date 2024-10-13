@@ -2,6 +2,13 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   future: { compatibilityVersion: 4 },
+  experimental: {
+    componentIslands: true
+  },
+  site: {
+    url: 'https://kmilo.dev',
+    indexable: true,
+  },
   content: {
     sources: {
       content: {
@@ -24,7 +31,7 @@ export default defineNuxtConfig({
   },
   extends: ['@nuxt/ui-pro'],
 
-  modules: ['@nuxt/content', '@nuxt/eslint', '@nuxt/ui'],
+  modules: ['@nuxt/content', '@nuxt/eslint', '@nuxt/ui', 'nuxt-og-image', '@nuxtjs/seo'],
 
   eslint: {
     config: {
