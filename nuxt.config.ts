@@ -31,7 +31,14 @@ export default defineNuxtConfig({
   },
   extends: ['@nuxt/ui-pro'],
 
-  modules: ['@nuxt/content', '@nuxt/eslint', '@nuxt/ui', 'nuxt-og-image', '@nuxtjs/seo'],
+  modules: [
+    '@nuxt/content',
+    '@nuxt/eslint',
+    '@nuxt/ui',
+    'nuxt-og-image',
+    '@nuxtjs/seo',
+    '@nuxt/image',
+  ],
 
   eslint: {
     config: {
