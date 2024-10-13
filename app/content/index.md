@@ -1,3 +1,8 @@
+---
+title: 'Kmilo'
+description: 'kmilogp8496 landing page'
+---
+
 <!-- omit in toc -->
 # Hi, I'm Kmilo!
 
@@ -19,7 +24,7 @@ I love [Vue](https://vuejs.org) and [Nuxt](https://nuxtjs.org). I started my car
 - Operating System: [Ubuntu](https://ubuntu.com/)
 - Terminal emulator: [Tilix](https://gnunn1.github.io/tilix-web/)
 - Shell: Zsh with [Oh My Zsh](https://ohmyz.sh/)
-- Code editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Code editor: [Cursor](https://cursor.com/)
 - Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - Screen capture: [Flameshot](https://flameshot.org/)
 - Keyboard: [Mx Keys Mini](https://www.logitech.com/en-us/products/keyboards/mx-keys-mini.920-010475.html)
