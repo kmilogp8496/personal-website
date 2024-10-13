@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import type { ParsedContent } from '@nuxt/content'
 
-
 const { data } = await useAsyncData('main', () => queryContent('/main').find())
 const links = mapContentNavigation(data.value!)
 
@@ -21,7 +20,7 @@ provide('navigation', navigation)
 
     <ClientOnly>
       <LazyUContentSearch
-        :files="files"
+        :files
         :navigation="navigation"
       />
     </ClientOnly>
