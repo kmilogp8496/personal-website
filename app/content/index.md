@@ -1,6 +1,6 @@
 ---
 title: 'Kmilo'
-description: 'kmilogp8496 landing page'
+description: 'kmilogp8496 personal website'
 ---
 
 <!-- omit in toc -->
