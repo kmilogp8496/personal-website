@@ -1,6 +1,6 @@
 ---
-title: Useful Links
-description: A list of useful links for daily use
+title: Configuration Files
+description: A list of useful configuration files
 ---
 
 ## Setup
